@@ -3,7 +3,7 @@
 
 ### Using :
 
-#### (*,-,+) Retrofit (for network handler)
+#### (+) Retrofit (for network handler)
 ##### (*,-,+) kotlin 
 (*,-,+) MVVM
 (*,-,+) jetpackCompose
