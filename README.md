@@ -1,7 +1,7 @@
 # OnlineShop
 ## This is a store program that has the ability to login and buy products and shopping carts
 
-###Using :
+### Using :
 
 (*,-,+) Retrofit (for network handler)
 (*,-,+) kotlin 
